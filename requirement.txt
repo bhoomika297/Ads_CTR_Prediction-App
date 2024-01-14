@@ -1,0 +1,5 @@
+streamlit
+numpy
+pickle
+sklearn == 1.3.2
+pandas
